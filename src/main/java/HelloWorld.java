@@ -8,7 +8,7 @@ public class HelloWorld {
      * 
      * Instead, this method must return a hello world String, instead of returning 
      * "change me". A test case will check if the behavior is as expected.
-     * You should use the test results to check for differences.
+     * You should use the test results to check for differences.  
      * 
      * @return "Hello, world!"
      */
